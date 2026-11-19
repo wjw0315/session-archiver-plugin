@@ -1,0 +1,9 @@
+{
+  "id": "session-archiver",
+  "name": "Session Archiver",
+  "description": "自动归档 idle 超过 N 天的会话（含主会话）：可配置阈值、dry-run 预览、归档前备份索引，Unarchive 可恢复",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.14.0"
+  }
+}
